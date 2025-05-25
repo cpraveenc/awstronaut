@@ -2,7 +2,8 @@
 
 ## Welcome to the awstronaut club!  
 
-This project highlights **K8SUG certified awstronaut** community members from around the world.  
+The awstronaut program celebrates community leaders who are passionate about learning and committed to helping others succeed. awstronauts have achieved all 12 active AWS certifications and actively support others on their cloud journey.   
+
 To submit your profile:
 
 1. You **must be fully certified on AWS**  
@@ -33,7 +34,7 @@ Please add your profile using the following format in `users.json`:
 {
   "name": "Yongkang He",
   "github": "yongkanghe",
-  "certs": "awstronaut",
+  "certs": ["awstronaut"],
   "city": "Melbourne",
   "country": "Australia",
   "date": "2024-07-01",
@@ -69,7 +70,8 @@ Please add your profile using the following format in `users.json`:
 
 - Place your avatar in the `avatars/` folder (e.g., `avatars/yourgithubusername.png`)  
 - **Max size:** 500 KB  
-- **Recommended dimensions:** 200×200 px (square images render best)  
+- **Recommended dimensions:** 200×200 px (square images render best)
+- **The image MUST be square. It will fail automated testing if it is not** 
 - **Allowed formats:** `.png`, `.jpg`  
 
 > If no avatar is uploaded, your GitHub profile picture will be used by default.
@@ -92,6 +94,24 @@ Check out this official guide:
 
 ---
 
-## 🙌 Thanks for contributing to the global awstronaut community!
+## 🙌 Thank You for Powering the Global Awstronaut Movement!
 
-Together we showcase the power of cloud certification and collaboration 💪☁️🌍
+Together, we’re showcasing the impact of AWS certifications and the strength of global community collaboration. 💪☁️🌍 Whether you're just starting out or already certified, you're part of something bigger — and stronger.
+
+---
+
+## 📢 Stay Connected with 100,000+ Cloud-Native Enthusiasts! 🎉
+
+Join over **100,000** passionate learners who:
+- ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡ 
+- ✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
+- ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
+
+📌 Subscribe now → 🔥 [K8SUG Linktree](https://linktr.ee/k8sug)
+📌 Bookmark this → ❤️ [K8SUG.AI](https://k8sug.ai/save)
+
+🔗 Stay plugged into the world’s most active Kubernetes + AI community.
+
+📣 Follow [K8SUG.AI](https://k8sug.ai) — Let’s build, learn, and grow together! 🚀
+
+<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. K8SUG is an independent community and not affiliated with or endorsed by CNCF.</sub>
